@@ -18,21 +18,19 @@ Source: https://archive-beta.ics.uci.edu
 
 
 ## Tools 
-Software Platform
-Jupyter Notebook
-Programming Language
-Python
-Python Libraries:
-Statistics libraries:
-Sklearn
-Statsmodels
-Data manipulation libraries:
-Pandas
-Numpy
-Visualization libraries
-Matplotlib
-Seaborn
-Storage libraries
-Pickle
+- Software Platform :Jupyter Notebook
+- Programming Language: Python
+- Python Libraries:
+    - Statistics libraries:
+        - Sklearn
+        - Statsmodels
+    - Data manipulation libraries:
+        - Pandas
+        - Numpy
+    - Visualization libraries
+        - Matplotlib
+        - Seaborn
+    - Storage libraries
+        - Pickle
 
 

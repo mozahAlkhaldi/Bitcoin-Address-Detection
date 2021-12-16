@@ -1,4 +1,6 @@
 # DETECT BITCOIN ADDRESSES INVOLVED IN RANSOMWARE TRANSACTIONS
+![106800765-1606130262265-gettyimages-872670764-set04375-bitcoin_9nov2017_kw0618](https://user-images.githubusercontent.com/36573740/146423237-fea63639-4c33-406b-85d6-b7f81e83325c.jpeg)
+
 
 ## Introduction 
 Bitcoin is a cryptocurrency based on peer-to-peer technology that involves no central authority like a bank. 
